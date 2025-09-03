@@ -1,2 +1,3 @@
-# MPSK-Guidebook
-Guide for the Multiplayer Shooter Kit on Fab
+# Multiplayer Shooter Kit Guidebook
+
+--Getting Started--
