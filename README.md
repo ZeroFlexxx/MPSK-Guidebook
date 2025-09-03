@@ -44,7 +44,7 @@ ___________________
 
 Finding the Instructions
 
-* Withint the Multiplayer_Shooter_Kit folder you should see a blueprint called "Instructional"
+* Within the Multiplayer_Shooter_Kit folder you should see a blueprint called "Instructional"
 * This blueprint is the starting point for learning the rest of the project
 
 Finally
