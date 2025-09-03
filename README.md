@@ -40,7 +40,15 @@ Finding the Controls
 ___________________
 
 ___Next Steps___
+___________________
 
-Open your character blueprint and ensure you have view of the main event graph
+Finding the Instructions
+
+* Withint the Multiplayer_Shooter_Kit folder you should see a blueprint called "Instructional"
+* This blueprint is the starting point for learning the rest of the project
+
+Finally
+
+* Open your character blueprint and ensure you have view of the main event graph:
 
 <img width="727" height="819" alt="image" src="https://github.com/user-attachments/assets/122fd684-9dfd-4392-b11c-b41e7989944b" />
