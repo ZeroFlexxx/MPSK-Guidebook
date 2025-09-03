@@ -47,6 +47,8 @@ Finding the Instructions
 * Within the Multiplayer_Shooter_Kit folder you should see a blueprint called "Instructional"
 * This blueprint is the starting point for learning the rest of the project
 
+<img width="822" height="844" alt="image" src="https://github.com/user-attachments/assets/ab9772e3-b007-4c12-90c9-ff7dcf442004" />
+
 Finally
 
 * Open your character blueprint and ensure you have view of the main event graph:
