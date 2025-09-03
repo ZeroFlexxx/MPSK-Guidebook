@@ -1,7 +1,7 @@
 # Multiplayer Shooter Kit Guidebook
 
 _Getting Started_
-____________________________________
+___________________
 
 Finding the Player
 
