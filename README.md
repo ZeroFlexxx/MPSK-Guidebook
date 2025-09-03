@@ -1,6 +1,6 @@
 # Multiplayer Shooter Kit Guidebook
 
-_Getting Started_
+___Getting Started___
 ___________________
 
 Finding the Player
@@ -37,3 +37,10 @@ Finding the Controls
 
 * Navigate to the Input folder
 * All input actions and the Input Mapping Context are within this folder
+___________________
+
+___Next Steps___
+
+Open your character blueprint and ensure you have view of the main event graph
+
+<img width="727" height="819" alt="image" src="https://github.com/user-attachments/assets/122fd684-9dfd-4392-b11c-b41e7989944b" />
