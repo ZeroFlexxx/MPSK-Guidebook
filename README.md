@@ -101,4 +101,22 @@ Grenade RPC Issue
 <img width="861" height="298" alt="image" src="https://github.com/user-attachments/assets/7224b2d5-e014-4078-b9c8-30f4c2421d2e" />
 
 
+___Migrating Assets___
+___________________
+
+* Start by opening the content folder and selecting it
+
+<img width="944" height="380" alt="image" src="https://github.com/user-attachments/assets/bc9769af-5ec6-4624-a834-895c0c655c70" />
+
+* Right click on the folder and select migrate
+
+<img width="576" height="465" alt="image" src="https://github.com/user-attachments/assets/077cf88c-3fe2-4361-901a-2ccb180b2141" />
+
+* Select only the assets that you would like to migrate to another project, for example if I only want the contents from the sounds folder I would deselect everything else
+
+<img width="626" height="556" alt="image" src="https://github.com/user-attachments/assets/aeb58636-6ada-4f35-82d7-358dcd360e75" />
+
+* Finally select the location to send the contents to, which needs to be a valid "Content" folder within another Unreal Engine project folder like shown here
+
+<img width="873" height="293" alt="image" src="https://github.com/user-attachments/assets/dbee3649-c1d5-4506-a2f5-58a84e3153ad" />
 
