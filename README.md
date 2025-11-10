@@ -120,3 +120,36 @@ ___________________
 
 <img width="873" height="293" alt="image" src="https://github.com/user-attachments/assets/dbee3649-c1d5-4506-a2f5-58a84e3153ad" />
 
+___________________
+___Bonus Stuff___
+___________________
+
+Adding Animation States (Tac Sprint Example)
+
+1. Open the Demo folder, then the FP_Manny folder
+
+2. In the animations folder you will find the Animation Blueprint called ABP_M4 - Open it
+
+3. Now open your player character blueprint and add a new boolean variable (red) called "Tac Sprint" and set it's replication value to "Replicated"
+
+4. Open the "Event Graph" within the Animation Blueprint
+
+<img width="692" height="615" alt="image" src="https://github.com/user-attachments/assets/cfa440c1-8b84-43cd-86ab-f2c5b66b86c6" />
+
+5. Get the "Tac Sprint" value from your character
+
+6. Set the "Tac Sprint" value in your animation blueprint
+
+<img width="985" height="428" alt="image" src="https://github.com/user-attachments/assets/d3703eca-fa44-4bf6-b4b0-3560de763e3b" />
+
+7. Open the character blueprint event graph
+
+8. Open the sprinting logic and add a new replicated event called "SRV_Tac Sprint"
+
+<img width="930" height="299" alt="image" src="https://github.com/user-attachments/assets/c2b309c9-80fd-4ebb-9dcb-755dcc5e0f19" />
+
+9. Now change the sprinting logic to match what you see below
+
+<img width="1168" height="604" alt="image" src="https://github.com/user-attachments/assets/2e45d75f-56f0-4ed0-918a-1eae36cd08ab" />
+
+9. Finally test it out to see if it works
